@@ -1,0 +1,2 @@
+# NotionSync
+NotionSync
